@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sansolar-project/static/css/main.ca97bc4a.css",
-    "main.js": "/sansolar-project/static/js/main.06563048.js",
+    "main.js": "/sansolar-project/static/js/main.8667cc7e.js",
     "static/media/video2.mp4": "/sansolar-project/static/media/video2.2bc856c884af63ec2062.mp4",
     "static/media/video3.mp4": "/sansolar-project/static/media/video3.af2d69f06450096d1708.mp4",
     "static/media/video4.mp4": "/sansolar-project/static/media/video4.936d637899c802cc5abb.mp4",
@@ -18,10 +18,10 @@
     "static/media/logo10.jpg": "/sansolar-project/static/media/logo10.8aadb229fc6ad00ba3ed.jpg",
     "index.html": "/sansolar-project/index.html",
     "main.ca97bc4a.css.map": "/sansolar-project/static/css/main.ca97bc4a.css.map",
-    "main.06563048.js.map": "/sansolar-project/static/js/main.06563048.js.map"
+    "main.8667cc7e.js.map": "/sansolar-project/static/js/main.8667cc7e.js.map"
   },
   "entrypoints": [
     "static/css/main.ca97bc4a.css",
-    "static/js/main.06563048.js"
+    "static/js/main.8667cc7e.js"
   ]
 }
